@@ -1,0 +1,54 @@
+.hero,
+.footer {
+    background-color: #1F2937;
+    color: #f9faf8;
+}
+
+.header-logo {
+    font-size: 24px;
+}
+
+.header-link,
+.hero-sub {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-text {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-button,
+.call-to-action {
+    background-color: #3882F6;
+    color: #E5E7EB;
+}
+
+.placeholder {
+    background-color: #e5e7eb88;
+}
+
+.info-header {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.quote {
+    background-color: #E5E7EB;
+}
+
+.quote-text {
+    font-size: 36px;   
+    font-weight: light;
+    font-style: italic;
+}
+
+.quote-sub {
+    font-weight: bold;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
